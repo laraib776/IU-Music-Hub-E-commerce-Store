@@ -52,11 +52,11 @@
 
 > **IU Music Hub & E-commerce Store** is a dynamic fan website and online store celebrating the music, albums, and artistry of **IU (아이유)** — Korean singer, actress, and icon.
 >
-> Built with **HTML, CSS, PHP, and MySQL**, it features a stunning album slideshow, a personality carousel, a fully functional e-commerce section for exclusive merchandise, and responsive design that looks beautiful on any device.
+> Built with **HTML, CSS, PHP, and MySQL**, it features a stunning album slideshow, a personality carousel, a fully functional e-commerce section for exclusive merchandise, and a responsive design that looks beautiful on any device.
 
 ---
 
-## ┌─── ✨ Key Features
+##  ✨ Key Features
 
 | 🌟 Feature | Details |
 |---|---|
@@ -69,23 +69,23 @@
 
 ---
 
-## ┌─── 🛠️ Technology Stack
+##  🛠️ Technology Stack
 
 ```
   ╭──────────────────┬──────────────────────────────────────────────╮
   │  Layer           │  Technology                                  │
   ├──────────────────┼──────────────────────────────────────────────┤
-  │  🏗️  Structure    │  HTML5                                      │
-  │  🎨  Styling      │  CSS3  (responsive layout & animations)     │
-  │  ⚙️  Backend      │  PHP                                        │
-  │  💾  Database     │  MySQL                                      │
-  │  🌐  Server       │  Apache  /  Nginx  (e.g. XAMPP or WAMP)    │
+  │  🏗️  Structure   │  HTML5                                      │
+  │  🎨  Styling     │  CSS3  (responsive layout & animations)     │
+  │  ⚙️  Backend     │  PHP                                        │
+  │  💾  Database    │  MySQL                                      │
+  │  🌐  Server      │  Apache  /  Nginx  (e.g. XAMPP or WAMP)     │
   ╰──────────────────┴──────────────────────────────────────────────╯
 ```
 
 ---
 
-## ┌─── 🚀 Installation & Setup
+##  🚀 Installation & Setup
 
 ### Step 1 — Install a Local Web Server
 
@@ -132,7 +132,7 @@ git clone https://github.com/laraib776/IU-Music-Hub-E-commerce-Store.git
 
 ---
 
-## ┌─── 🛍️ E-commerce Store
+##  🛍️ E-commerce Store
 
 The store allows fans to browse and purchase exclusive IU merchandise:
 
@@ -147,7 +147,7 @@ The store allows fans to browse and purchase exclusive IU merchandise:
 
 ---
 
-## ┌─── 📁 Project Structure
+##  📁 Project Structure
 
 ```
 📦 IU-Music-Hub-E-commerce-Store/
@@ -172,7 +172,7 @@ The store allows fans to browse and purchase exclusive IU merchandise:
 
 ---
 
-## ┌─── 🌐 Browser Support
+##  🌐 Browser Support
 
 ```
   ✅  Chrome     ✅  Firefox     ✅  Safari     ✅  Edge
@@ -180,7 +180,7 @@ The store allows fans to browse and purchase exclusive IU merchandise:
 
 ---
 
-## ┌─── 🤝 Contributing
+##  🤝 Contributing
 
 Contributions are always welcome and appreciated! 💖
 
@@ -195,7 +195,7 @@ Ideas we'd love to see: a fan login system, a wishlist feature, a music player, 
 
 ---
 
-## ┌─── 📜 License
+##  📜 License
 
 IU Music Hub is licensed under the **MIT License** — free to use, modify, and share.
 See the `LICENSE` file for full details.
